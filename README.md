@@ -41,7 +41,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
-![image](https://github.com/HemapriyaOfficial/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/147114275/93787f17-8eaf-4cba-b6fc-554e7dc6ea85)
+
+![image](https://github.com/HemapriyaOfficial/EX.-No.-3.1.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/147114275/0d5ef24e-6fc4-49b1-af97-3ca9f30a023e)
 
 
 ## RESULT:
